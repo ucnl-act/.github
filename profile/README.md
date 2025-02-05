@@ -1,6 +1,6 @@
 ## Que onda! 🙋‍♂️
-- He creado esta organización con el fin de estructrar los proyectos de la uni en la cual estudio actualmente.
-- Por ahora no hay nada, pero proximamente creare un programa simple donde utilice clases, sisi, usaré Java... 
+- He creado esta organización con el fin de estructrar los proyectos de la uni en la cual estudio actualmente 💻
+- Por ahora no hay nada, pero proximamente creare un programa simple donde utilice clases, sisi, usaré Java... 🤓
 <!--
 
 **Here are some ideas to get you started:**
