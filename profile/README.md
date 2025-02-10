@@ -1,6 +1,6 @@
 ## Que onda! 🙋‍♂️
 - En esta "organización" subiré las actividades que me sean requeridas en la UNCL
-- Actividad 2: Desarrollo de una Aplicación Simple en Línea
+- Actividad 2: Desarrollo de una Aplicación Simple en Línea: https://github.com/ucnl-act/gestor_biblioteca
 <!--
 
 **Here are some ideas to get you started:**
