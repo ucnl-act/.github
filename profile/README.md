@@ -1,5 +1,5 @@
 ## Que onda! 🙋‍♂️
-- En esta "organización" subiré las actividades que me sean requeridas en la UNCL
+- En esta "organización" subiré las actividades que me sean requeridas en la UCNL
 - Actividad 2: Desarrollo de una Aplicación Simple en Línea: https://github.com/ucnl-act/gestor_biblioteca
 <!--
 
