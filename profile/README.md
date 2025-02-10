@@ -1,6 +1,6 @@
 ## Que onda! 🙋‍♂️
-- He creado esta organización con el fin de estructrar los proyectos de la uni en la cual estudio actualmente 💻
-- Por ahora no hay nada, pero proximamente creare un programa simple donde utilice clases, sisi, usaré Java... 🤓
+- En esta "organización" subiré las actividades que me sean requeridas en la UNCL
+- Actividad 2: Desarrollo de una Aplicación Simple en Línea
 <!--
 
 **Here are some ideas to get you started:**
